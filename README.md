@@ -2,7 +2,9 @@
 
 <div align="center">
 
-  <img src="https://i.ibb.co/shPGZpq/q-UMs-HLPXMA.jpg" />
+  <img src="https://i.ibb.co/shPGZpq/q-UMs-HLPXMA.jpg" alt="Baileys Banner" />
+
+  <br><br>
 
   <a href="https://www.npmjs.com/package/@dark-yasiya/baileys">
     <img src="https://img.shields.io/npm/v/@dark-yasiya/baileys?color=red&label=Version&logo=npm" alt="npm version" />
@@ -12,11 +14,12 @@
     <img src="https://img.shields.io/npm/dt/@dark-yasiya/baileys?color=red&label=Downloads&logo=npm" alt="npm downloads" />
   </a>
 
-  <a href="[https://whatsapp.com/channel/0029VaEe0l9Au3aVRw2x2r0V](https://whatsapp.com/channel/0029VaaPfFK7Noa8nI8zGg27)">
+  <a href="https://whatsapp.com/channel/0029VaaPfFK7Noa8nI8zGg27">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
   </a>
 
 </div>
+
 
 ## 📖 Table of Contents
 
