@@ -6,11 +6,11 @@
   <img src="https://raw.githubusercontent.com/Dark-Yasiya/DARKYASIYA-DATABASE/main/MEDIA/IMAGE/yasiya-md.jpg" />
 
   <a href="https://www.npmjs.com/package/@dark-yasiya/baileys">
-    <img src="https://img.shields.io/npm/v/baileys-mod?color=red&label=Version&logo=npm" alt="npm version" />
+    <img src="https://img.shields.io/npm/v/@dark-yasiya/baileys?color=red&label=Version&logo=npm" alt="npm version" />
   </a>
 
   <a href="https://www.npmjs.com/package/@dark-yasiya/baileys">
-    <img src="https://img.shields.io/npm/dt/baileys-mod?color=red&label=Downloads&logo=npm" alt="npm downloads" />
+    <img src="https://img.shields.io/npm/dt/@dark-yasiya/baileys?color=red&label=Downloads&logo=npm" alt="npm downloads" />
   </a>
 
   <a href="[https://whatsapp.com/channel/0029VaEe0l9Au3aVRw2x2r0V](https://whatsapp.com/channel/0029VaaPfFK7Noa8nI8zGg27)">
