@@ -1,20 +1,20 @@
 {
-  "name": "manul-ofc-baileys-by-manul",
-  "version": "1.0.3",
+  "name": "@dark-yasiya/baileys",
+  "version": "1.0.7",
   "description": "Baileys with the WhatsApp Web API using WebSocket.",
   "keywords": [
-    "facebook",
+    "darkyasiya",
     "baileys",
     "interactive",
     "whatsapp",
     "whatsapp-bot"
   ],
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/DarkYasiyaNew/YMD-Baileys",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "git@github.com:DarkYasiyaNew/YMD-Baileys.git"
   },
   "license": "MIT",
-  "author": "Manul Official",
+  "author": "DarkYasiya",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
