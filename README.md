@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://i.ibb.co/79Qx5By/darkyasiya-baileys.png" />
+  <img src="https://i.ibb.co/shPGZpq/q-UMs-HLPXMA.jpg" />
 
   <a href="https://www.npmjs.com/package/@dark-yasiya/baileys">
     <img src="https://img.shields.io/npm/v/@dark-yasiya/baileys?color=red&label=Version&logo=npm" alt="npm version" />
