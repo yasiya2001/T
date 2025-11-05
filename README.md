@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Dark-Yasiya/DARKYASIYA-DATABASE/main/MEDIA/IMAGE/yasiya-md.jpg" />
+  <img src="https://raw.githubusercontent.com/Dark-Yasiya/DARKYASIYA-DATABASE/main/MEDIA/IMAGE/darkyasiya-baileys.png" />
 
   <a href="https://www.npmjs.com/package/@dark-yasiya/baileys">
     <img src="https://img.shields.io/npm/v/@dark-yasiya/baileys?color=red&label=Version&logo=npm" alt="npm version" />
